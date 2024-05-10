@@ -11,6 +11,7 @@ ResNet50 - Residual Network (ResNet) is a deep learning model used for computer 
 VGG16 - It is a convolution neural network (CNN) model supporting 16 layers.
 
 ## Required Libraries
+```python
 import keras
 from keras.models import Sequential
 from keras.layers import Dense
